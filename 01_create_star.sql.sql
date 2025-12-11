@@ -70,7 +70,6 @@ CREATE TABLE fact_flights (
 );
 GO
 
--- OPCIONAL: AGREGAR FOREIGN KEYS (OJO, CON 69M PUEDE SER PESADO)
 ALTER TABLE fact_flights
 ADD CONSTRAINT FK_fact_airline
     FOREIGN KEY (airline_id) REFERENCES dim_airline(airline_id);
@@ -88,9 +87,3 @@ ADD CONSTRAINT FK_fact_fecha
     FOREIGN KEY (fecha_id) REFERENCES dim_date(fecha_id);
 GO
 
--- ÍNDICES PARA ACELERAR QUERIES (IMPORTANTE CON 69M)
-CREATE INDEX IX_fact_airline ON fact_flights(airline_id);
-CREATE INDEX IX_fact_origin ON fact_flights(origin_airport_id);
-CREATE INDEX IX_fact_dest ON fact_flights(destination_airport_id);
-CREATE INDEX IX_fact_fecha ON fact_flights(fecha_id);
-GO

@@ -1,24 +1,24 @@
 airline_id,carrier_code,airline_name
-1,VX,
-2,OH,
-3,WN,
-4,DL,
-5,XE,
-6,HA,
-7,9E,
-8,YV,
-9,NK,
-10,EV,
-11,FL,
-12,OO,
-13,B6,
-14,NW,
-15,G4,
-16,AS,
-17,CO,
-18,F9,
-19,YX,
-20,MQ,
-21,US,
-22,AA,
-23,UA,
+1,VX,Virgin America
+2,OH,PSA Airlines
+3,WN,Southwest Airlines
+4,DL,Delta Air Lines
+5,XE,ExpressJet Airlines
+6,HA,Hawaiian Airlines
+7,9E,Endeavor Air
+8,YV,Mesa Airlines
+9,NK,Spirit Airlines
+10,EV,Atlantic Southeast Airlines (ASA)
+11,FL,AirTran Airways
+12,OO,SkyWest Airlines
+13,B6,JetBlue Airways
+14,NW,Northwest Airlines
+15,G4,Allegiant Air
+16,AS,Alaska Airlines
+17,CO,Continental Airlines
+18,F9,Frontier Airlines
+19,YX,Midwest Airlines
+20,MQ,Envoy Air (American Eagle)
+21,US,US Airways
+22,AA,American Airlines
+23,UA,United Airlines

@@ -1,6 +1,6 @@
 INSERT INTO dim_airline (carrier_code, airline_name)
 SELECT DISTINCT Reporting_Airline, NULL
-FROM Vuelos_clean;
+FROMÂ Vuelos_clean;
 
 -- ORIGIN AIRPORTS
 INSERT INTO dim_airport (airport_code, airport_name, city, state)
@@ -19,7 +19,7 @@ SELECT DISTINCT
     DestCityName,
     DestState
 FROM Vuelos_clean
-WHERE Dest NOT IN (SELECT airport_code FROM dim_airport);
+WHERE Dest NOT IN (SELECT airport_code FROMÂ dim_airport);
 
 INSERT INTO dim_date (fecha, year, month, day, quarter, weekday)
 SELECT DISTINCT
@@ -31,4 +31,4 @@ SELECT DISTINCT
     DATEPART(WEEKDAY, FlightDate)
 FROM Vuelos_clean
 WHERE FlightDate IS NOT NULL
-ORDER BY FlightDate;
+ORDERÂ BYÂ FlightDate;

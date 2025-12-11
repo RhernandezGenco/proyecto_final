@@ -1,5 +1,5 @@
 ------------------------
--- DIMENSI”N AEROLÕNEA --
+-- DIMENSI√ìN AEROL√çNEA --
 -------------------------
 IF OBJECT_ID('dim_airline', 'U') IS NOT NULL
     DROP TABLE dim_airline;
@@ -13,7 +13,7 @@ CREATE TABLE dim_airline (
 GO
 
 --------------------------
--- DIMENSI”N AEROPUERTO --
+-- DIMENSI√ìN AEROPUERTO --
 --------------------------
 IF OBJECT_ID('dim_airport', 'U') IS NOT NULL
     DROP TABLE dim_airport;
@@ -29,7 +29,7 @@ CREATE TABLE dim_airport (
 GO
 
 ----------------------
--- DIMENSI”N FECHA  --
+-- DIMENSI√ìN FECHA  --
 ----------------------
 IF OBJECT_ID('dim_date', 'U') IS NOT NULL
     DROP TABLE dim_date;

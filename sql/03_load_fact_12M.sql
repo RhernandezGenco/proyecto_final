@@ -32,5 +32,5 @@ JOIN dim_airport ad
     ON ad.airport_code = f.Dest
 JOIN dim_date dd 
     ON dd.fecha = f.FlightDate
-WHERE f.DepDel15 = 1;   --  solo vuelos con 15+ minutos de   retraso
+WHERE f.DepDel15 = 1;   --  solo vuelos con 15+ minutosÂ deÂ Â Â retraso
 

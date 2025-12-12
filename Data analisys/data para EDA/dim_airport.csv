@@ -1,0 +1,386 @@
+airport_id,airport_code,airport_name,city,state
+1,ABE,,Allentown/Bethlehem/Easton, PA,PA
+2,ABI,,Abilene, TX,TX
+3,ABQ,,Albuquerque, NM,NM
+4,ABR,,Aberdeen, SD,SD
+5,ABY,,Albany, GA,GA
+6,ACK,,Nantucket, MA,MA
+7,ACT,,Waco, TX,TX
+8,ACV,,Arcata/Eureka, CA,CA
+9,ACY,,Atlantic City, NJ,NJ
+10,ADK,,Adak Island, AK,AK
+11,ADQ,,Kodiak, AK,AK
+12,AEX,,Alexandria, LA,LA
+13,AGS,,Augusta, GA,GA
+14,AKN,,King Salmon, AK,AK
+15,ALB,,Albany, NY,NY
+16,ALO,,Waterloo, IA,IA
+17,AMA,,Amarillo, TX,TX
+18,ANC,,Anchorage, AK,AK
+19,APN,,Alpena, MI,MI
+20,ART,,Watertown, NY,NY
+21,ASE,,Aspen, CO,CO
+22,ATL,,Atlanta, GA,GA
+23,ATW,,Appleton, WI,WI
+24,ATY,,Watertown, SD,SD
+25,AUS,,Austin, TX,TX
+26,AVL,,Asheville, NC,NC
+27,AVP,,Scranton/Wilkes-Barre, PA,PA
+28,AZA,,Phoenix, AZ,AZ
+29,AZO,,Kalamazoo, MI,MI
+30,BDL,,Hartford, CT,CT
+31,BET,,Bethel, AK,AK
+32,BFF,,Scottsbluff, NE,NE
+33,BFL,,Bakersfield, CA,CA
+34,BFM,,Mobile, AL,AL
+35,BGM,,Binghamton, NY,NY
+36,BGR,,Bangor, ME,ME
+37,BHM,,Birmingham, AL,AL
+38,BIL,,Billings, MT,MT
+39,BIS,,Bismarck/Mandan, ND,ND
+40,BJI,,Bemidji, MN,MN
+41,BKG,,Branson, MO,MO
+42,BLI,,Bellingham, WA,WA
+43,BLV,,Belleville, IL,IL
+44,BMI,,Bloomington/Normal, IL,IL
+45,BNA,,Nashville, TN,TN
+46,BOI,,Boise, ID,ID
+47,BOS,,Boston, MA,MA
+48,BPT,,Beaumont/Port Arthur, TX,TX
+49,BQK,,Brunswick, GA,GA
+50,BQN,,Aguadilla, PR,PR
+51,BRD,,Brainerd, MN,MN
+52,BRO,,Brownsville, TX,TX
+53,BRW,,Barrow, AK,AK
+54,BTM,,Butte, MT,MT
+55,BTR,,Baton Rouge, LA,LA
+56,BTV,,Burlington, VT,VT
+57,BUF,,Buffalo, NY,NY
+58,BUR,,Burbank, CA,CA
+59,BWI,,Baltimore, MD,MD
+60,BZN,,Bozeman, MT,MT
+61,CAE,,Columbia, SC,SC
+62,CAK,,Akron, OH,OH
+63,CDC,,Cedar City, UT,UT
+64,CDV,,Cordova, AK,AK
+65,CEC,,Crescent City, CA,CA
+66,CGI,,Cape Girardeau, MO,MO
+67,CHA,,Chattanooga, TN,TN
+68,CHO,,Charlottesville, VA,VA
+69,CHS,,Charleston, SC,SC
+70,CIC,,Chico, CA,CA
+71,CID,,Cedar Rapids/Iowa City, IA,IA
+72,CIU,,Sault Ste. Marie, MI,MI
+73,CKB,,Clarksburg/Fairmont, WV,WV
+74,CLD,,Carlsbad, CA,CA
+75,CLE,,Cleveland, OH,OH
+76,CLL,,College Station/Bryan, TX,TX
+77,CLT,,Charlotte, NC,NC
+78,CMH,,Columbus, OH,OH
+79,CMI,,Champaign/Urbana, IL,IL
+80,CMX,,Hancock/Houghton, MI,MI
+81,CNY,,Moab, UT,UT
+82,COD,,Cody, WY,WY
+83,COS,,Colorado Springs, CO,CO
+84,COU,,Columbia, MO,MO
+85,CPR,,Casper, WY,WY
+86,CRP,,Corpus Christi, TX,TX
+87,CRW,,Charleston/Dunbar, WV,WV
+88,CSG,,Columbus, GA,GA
+89,CVG,,Cincinnati, OH,KY
+90,CWA,,Mosinee, WI,WI
+91,CYS,,Cheyenne, WY,WY
+92,DAB,,Daytona Beach, FL,FL
+93,DAL,,Dallas, TX,TX
+94,DAY,,Dayton, OH,OH
+95,DBQ,,Dubuque, IA,IA
+96,DCA,,Washington, DC,VA
+97,DEN,,Denver, CO,CO
+98,DFW,,Dallas/Fort Worth, TX,TX
+99,DHN,,Dothan, AL,AL
+100,DIK,,Dickinson, ND,ND
+101,DLG,,Dillingham, AK,AK
+102,DLH,,Duluth, MN,MN
+103,DRO,,Durango, CO,CO
+104,DRT,,Del Rio, TX,TX
+105,DSM,,Des Moines, IA,IA
+106,DTW,,Detroit, MI,MI
+107,DVL,,Devils Lake, ND,ND
+108,EAR,,Kearney, NE,NE
+109,EAU,,Eau Claire, WI,WI
+110,ECP,,Panama City, FL,FL
+111,EFD,,Houston, TX,TX
+112,EGE,,Eagle, CO,CO
+113,EKO,,Elko, NV,NV
+114,ELM,,Elmira/Corning, NY,NY
+115,ELP,,El Paso, TX,TX
+116,ENV,,Wendover, UT,UT
+117,ERI,,Erie, PA,PA
+118,ESC,,Escanaba, MI,MI
+119,EUG,,Eugene, OR,OR
+120,EVV,,Evansville, IN,IN
+121,EWN,,New Bern/Morehead/Beaufort, NC,NC
+122,EWR,,Newark, NJ,NJ
+123,EYW,,Key West, FL,FL
+124,FAI,,Fairbanks, AK,AK
+125,FAR,,Fargo, ND,ND
+126,FAT,,Fresno, CA,CA
+127,FAY,,Fayetteville, NC,NC
+128,FCA,,Kalispell, MT,MT
+129,FLG,,Flagstaff, AZ,AZ
+130,FLL,,Fort Lauderdale, FL,FL
+131,FLO,,Florence, SC,SC
+132,FNT,,Flint, MI,MI
+133,FOE,,Topeka, KS,KS
+134,FSD,,Sioux Falls, SD,SD
+135,FSM,,Fort Smith, AR,AR
+136,FWA,,Fort Wayne, IN,IN
+137,GCC,,Gillette, WY,WY
+138,GCK,,Garden City, KS,KS
+139,GEG,,Spokane, WA,WA
+140,GFK,,Grand Forks, ND,ND
+141,GGG,,Longview, TX,TX
+142,GJT,,Grand Junction, CO,CO
+143,GNV,,Gainesville, FL,FL
+144,GPT,,Gulfport/Biloxi, MS,MS
+145,GRB,,Green Bay, WI,WI
+146,GRI,,Grand Island, NE,NE
+147,GRK,,Killeen, TX,TX
+148,GRR,,Grand Rapids, MI,MI
+149,GSO,,Greensboro/High Point, NC,NC
+150,GSP,,Greer, SC,SC
+151,GST,,Gustavus, AK,AK
+152,GTF,,Great Falls, MT,MT
+153,GTR,,Columbus, MS,MS
+154,GUC,,Gunnison, CO,CO
+155,GUM,,Guam, TT,TT
+156,HDN,,Hayden, CO,CO
+157,HGR,,Hagerstown, MD,MD
+158,HHH,,Hilton Head, SC,SC
+159,HIB,,Hibbing, MN,MN
+160,HLN,,Helena, MT,MT
+161,HNL,,Honolulu, HI,HI
+162,HOB,,Hobbs, NM,NM
+163,HOU,,Houston, TX,TX
+164,HPN,,White Plains, NY,NY
+165,HRL,,Harlingen/San Benito, TX,TX
+166,HSV,,Huntsville, AL,AL
+167,HTS,,Ashland, WV,WV
+168,HVN,,New Haven, CT,CT
+169,HYA,,Hyannis, MA,MA
+170,HYS,,Hays, KS,KS
+171,IAD,,Washington, DC,VA
+172,IAG,,Niagara Falls, NY,NY
+173,IAH,,Houston, TX,TX
+174,ICT,,Wichita, KS,KS
+175,IDA,,Idaho Falls, ID,ID
+176,IFP,,Bullhead City, AZ,AZ
+177,ILG,,Wilmington, DE,DE
+178,ILM,,Wilmington, NC,NC
+179,IMT,,Iron Mountain/Kingsfd, MI,MI
+180,IND,,Indianapolis, IN,IN
+181,INL,,International Falls, MN,MN
+182,IPL,,El Centro, CA,CA
+183,ISN,,Williston, ND,ND
+184,ISP,,Islip, NY,NY
+185,ITH,,Ithaca/Cortland, NY,NY
+186,ITO,,Hilo, HI,HI
+187,IYK,,Inyokern, CA,CA
+188,JAC,,Jackson, WY,WY
+189,JAN,,Jackson/Vicksburg, MS,MS
+190,JAX,,Jacksonville, FL,FL
+191,JFK,,New York, NY,NY
+192,JLN,,Joplin, MO,MO
+193,JMS,,Jamestown, ND,ND
+194,JNU,,Juneau, AK,AK
+195,KOA,,Kona, HI,HI
+196,KTN,,Ketchikan, AK,AK
+197,LAN,,Lansing, MI,MI
+198,LAR,,Laramie, WY,WY
+199,LAS,,Las Vegas, NV,NV
+200,LAW,,Lawton/Fort Sill, OK,OK
+201,LAX,,Los Angeles, CA,CA
+202,LBB,,Lubbock, TX,TX
+203,LBE,,Latrobe, PA,PA
+204,LBF,,North Platte, NE,NE
+205,LBL,,Liberal, KS,KS
+206,LCH,,Lake Charles, LA,LA
+207,LCK,,Columbus, OH,OH
+208,LEX,,Lexington, KY,KY
+209,LFT,,Lafayette, LA,LA
+210,LGA,,New York, NY,NY
+211,LGB,,Long Beach, CA,CA
+212,LIH,,Lihue, HI,HI
+213,LIT,,Little Rock, AR,AR
+214,LMT,,Klamath Falls, OR,OR
+215,LNK,,Lincoln, NE,NE
+216,LRD,,Laredo, TX,TX
+217,LSE,,La Crosse, WI,WI
+218,LWB,,Lewisburg, WV,WV
+219,LWS,,Lewiston, ID,ID
+220,LYH,,Lynchburg, VA,VA
+221,MAF,,Midland/Odessa, TX,TX
+222,MBS,,Saginaw/Bay City/Midland, MI,MI
+223,MCI,,Kansas City, MO,MO
+224,MCN,,Macon, GA,GA
+225,MCO,,Orlando, FL,FL
+226,MDT,,Harrisburg, PA,PA
+227,MDW,,Chicago, IL,IL
+228,MEI,,Meridian, MS,MS
+229,MEM,,Memphis, TN,TN
+230,MFE,,Mission/McAllen/Edinburg, TX,TX
+231,MFR,,Medford, OR,OR
+232,MGM,,Montgomery, AL,AL
+233,MHK,,Manhattan/Ft. Riley, KS,KS
+234,MHT,,Manchester, NH,NH
+235,MIA,,Miami, FL,FL
+236,MKE,,Milwaukee, WI,WI
+237,MKG,,Muskegon, MI,MI
+238,MLB,,Melbourne, FL,FL
+239,MLI,,Moline, IL,IL
+240,MLU,,Monroe, LA,LA
+241,MMH,,Mammoth Lakes, CA,CA
+242,MOB,,Mobile, AL,AL
+243,MOD,,Modesto, CA,CA
+244,MOT,,Minot, ND,ND
+245,MQT,,Marquette, MI,MI
+246,MRY,,Monterey, CA,CA
+247,MSN,,Madison, WI,WI
+248,MSO,,Missoula, MT,MT
+249,MSP,,Minneapolis, MN,MN
+250,MSY,,New Orleans, LA,LA
+251,MTJ,,Montrose/Delta, CO,CO
+252,MVY,,Martha's Vineyard, MA,MA
+253,MWH,,Moses Lake, WA,WA
+254,MYR,,Myrtle Beach, SC,SC
+255,OAJ,,Jacksonville/Camp Lejeune, NC,NC
+256,OAK,,Oakland, CA,CA
+257,OGD,,Ogden, UT,UT
+258,OGG,,Kahului, HI,HI
+259,OGS,,Ogdensburg, NY,NY
+260,OKC,,Oklahoma City, OK,OK
+261,OMA,,Omaha, NE,NE
+262,OME,,Nome, AK,AK
+263,ONT,,Ontario, CA,CA
+264,ORD,,Chicago, IL,IL
+265,ORF,,Norfolk, VA,VA
+266,ORH,,Worcester, MA,MA
+267,OTH,,North Bend/Coos Bay, OR,OR
+268,OTZ,,Kotzebue, AK,AK
+269,OWB,,Owensboro, KY,KY
+270,OXR,,Oxnard/Ventura, CA,CA
+271,PAE,,Everett, WA,WA
+272,PAH,,Paducah, KY,KY
+273,PBG,,Plattsburgh, NY,NY
+274,PBI,,West Palm Beach/Palm Beach, FL,FL
+275,PDX,,Portland, OR,OR
+276,PFN,,Panama City, FL,FL
+277,PGD,,Punta Gorda, FL,FL
+278,PGV,,Greenville, NC,NC
+279,PHF,,Newport News/Williamsburg, VA,VA
+280,PHL,,Philadelphia, PA,PA
+281,PHX,,Phoenix, AZ,AZ
+282,PIA,,Peoria, IL,IL
+283,PIB,,Hattiesburg/Laurel, MS,MS
+284,PIE,,St. Petersburg, FL,FL
+285,PIH,,Pocatello, ID,ID
+286,PIR,,Pierre, SD,SD
+287,PIT,,Pittsburgh, PA,PA
+288,PLN,,Pellston, MI,MI
+289,PNS,,Pensacola, FL,FL
+290,PPG,,Pago Pago, TT,TT
+291,PRC,,Prescott, AZ,AZ
+292,PSC,,Pasco/Kennewick/Richland, WA,WA
+293,PSE,,Ponce, PR,PR
+294,PSG,,Petersburg, AK,AK
+295,PSM,,Portsmouth, NH,NH
+296,PSP,,Palm Springs, CA,CA
+297,PUB,,Pueblo, CO,CO
+298,PVD,,Providence, RI,RI
+299,PVU,,Provo, UT,UT
+300,PWM,,Portland, ME,ME
+301,RAP,,Rapid City, SD,SD
+302,RDD,,Redding, CA,CA
+303,RDM,,Bend/Redmond, OR,OR
+304,RDU,,Raleigh/Durham, NC,NC
+305,RFD,,Rockford, IL,IL
+306,RHI,,Rhinelander, WI,WI
+307,RIC,,Richmond, VA,VA
+308,RKS,,Rock Springs, WY,WY
+309,RNO,,Reno, NV,NV
+310,ROA,,Roanoke, VA,VA
+311,ROC,,Rochester, NY,NY
+312,ROW,,Roswell, NM,NM
+313,RST,,Rochester, MN,MN
+314,RSW,,Fort Myers, FL,FL
+315,SAF,,Santa Fe, NM,NM
+316,SAN,,San Diego, CA,CA
+317,SAT,,San Antonio, TX,TX
+318,SAV,,Savannah, GA,GA
+319,SBA,,Santa Barbara, CA,CA
+320,SBN,,South Bend, IN,IN
+321,SBP,,San Luis Obispo, CA,CA
+322,SCC,,Deadhorse, AK,AK
+323,SCE,,State College, PA,PA
+324,SCK,,Stockton, CA,CA
+325,SDF,,Louisville, KY,KY
+326,SEA,,Seattle, WA,WA
+327,SFB,,Sanford, FL,FL
+328,SFO,,San Francisco, CA,CA
+329,SGF,,Springfield, MO,MO
+330,SGU,,St. George, UT,UT
+331,SHD,,Staunton, VA,VA
+332,SHV,,Shreveport, LA,LA
+333,SIT,,Sitka, AK,AK
+334,SJC,,San Jose, CA,CA
+335,SJT,,San Angelo, TX,TX
+336,SJU,,San Juan, PR,PR
+337,SLC,,Salt Lake City, UT,UT
+338,SLN,,Salina, KS,KS
+339,SMF,,Sacramento, CA,CA
+340,SMX,,Santa Maria, CA,CA
+341,SNA,,Santa Ana, CA,CA
+342,SPI,,Springfield, IL,IL
+343,SPN,,Saipan, TT,TT
+344,SPS,,Wichita Falls, TX,TX
+345,SRQ,,Sarasota/Bradenton, FL,FL
+346,STC,,St. Cloud, MN,MN
+347,STL,,St. Louis, MO,MO
+348,STS,,Santa Rosa, CA,CA
+349,STT,,Charlotte Amalie, VI,VI
+350,STX,,Christiansted, VI,VI
+351,SUN,,Sun Valley/Hailey/Ketchum, ID,ID
+352,SUX,,Sioux City, IA,IA
+353,SWF,,Newburgh/Poughkeepsie, NY,NY
+354,SWO,,Stillwater, OK,OK
+355,SYR,,Syracuse, NY,NY
+356,TEX,,Telluride, CO,CO
+357,TKI,,Tokeen, AK,AK
+358,TLH,,Tallahassee, FL,FL
+359,TOL,,Toledo, OH,OH
+360,TPA,,Tampa, FL,FL
+361,TRI,,Bristol/Johnson City/Kingsport, TN,TN
+362,TTN,,Trenton, NJ,NJ
+363,TUL,,Tulsa, OK,OK
+364,TUP,,Tupelo, MS,MS
+365,TUS,,Tucson, AZ,AZ
+366,TVC,,Traverse City, MI,MI
+367,TWF,,Twin Falls, ID,ID
+368,TXK,,Texarkana, AR,AR
+369,TYR,,Tyler, TX,TX
+370,TYS,,Knoxville, TN,TN
+371,UIN,,Quincy, IL,IL
+372,USA,,CONCORD, NC,NC
+373,UST,,St. Augustine, FL,FL
+374,UTM,,Tunica, MS,MS
+375,VEL,,Vernal, UT,UT
+376,VLD,,Valdosta, GA,GA
+377,VPS,,Valparaiso, FL,FL
+378,WRG,,Wrangell, AK,AK
+379,WYS,,West Yellowstone, MT,MT
+380,XNA,,Fayetteville, AR,AR
+381,XWA,,Williston, ND,ND
+382,YAK,,Yakutat, AK,AK
+383,YNG,,Youngstown/Warren, OH,OH
+384,YUM,,Yuma, AZ,AZ
+385,FNL,,Fort Collins/Loveland, CO,CO
